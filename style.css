@@ -1,0 +1,60 @@
+h2  {
+    color: #666;
+    margin-top: 30px;
+}
+h3 {
+    color: #666;
+}
+.user {
+    width: 50px;
+    margin: 5px 20px 5px 0px;
+    border-radius: 50%;
+   
+}
+.table {
+    margin:50px 20px;
+}
+.star {
+    width: 20px;
+    border-radius: 50%;   
+}
+.eva {
+    display: inline-block;
+}
+#stage {
+    float:right;
+    width:50%;
+}
+
+.header {
+    
+    /* margin-bottom: 30px; */
+
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    z-index:10;
+
+}
+
+.btn {
+    font-size:20px;
+
+}
+
+.contents {
+    padding-top:200px;
+}
+
+.box {
+    border: 1px rgb(211, 208, 208) solid;
+    padding:20px;
+    margin: 20px;
+    background-color:#fffaf0;
+}
+.footer {
+    padding-top:50px;
+    padding-bottom:50px;
+    background-color: black;
+}
